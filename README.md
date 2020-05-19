@@ -25,5 +25,5 @@ If you happen to get an error along the line of "no module found xxx" then make 
 
 `export PYTHONPATH="${PYTHONPATH}:path/to/gr-XXX/python/"`
 
-where `path/to/gr-nsf/python/` is should be changed to the appropriate path on your PC
+where `path/to/gr-XXX/python/` is should be changed to the appropriate path on your PC
 
