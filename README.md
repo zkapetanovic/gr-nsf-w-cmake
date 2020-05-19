@@ -1,18 +1,6 @@
-# gr-nsf-w-cmake
+#Install Guide
 
-These Python modules are sourced from [gr-nsf](https://github.com/glangsto/gr-nsf/tree/master/python), but modified to work with cmake.
-
-# Install Guide
-
-1. First, install the following,
-
-```
-sudo apt-get install python-dev
-sudo apt-get install python-pip
-sudo pip install pyephem
-```
-
-2. Clone the repository and within the gr-nsf folder create a build folder
+1. Clone the repository and within the gr-XXX folder create a build folder
 
 `mkdir build`
 
