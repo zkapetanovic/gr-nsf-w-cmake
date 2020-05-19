@@ -1,4 +1,4 @@
-#Install Guide
+# Install Guide
 
 1. Clone the repository and within the gr-XXX folder create a build folder
 
